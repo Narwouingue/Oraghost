@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Automaticlayering : MonoBehaviour
-{
+{ 
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Transform Character;
 
